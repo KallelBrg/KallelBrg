@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&psig=AOvVaw0Gu-UkIyJ8kzGHerwRUpVz&ust=1712255100007000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiWqrrVpoUDFQAAAAAdAAAAABAE)
+![JavaScript](https://www.flaticon.com/br/icone-gratis/js_5968292?term=logotipo+javascript&page=1&position=2&origin=tag&related_id=5968292)
 
 <html>
     <strong>Contatos<br /><br />
